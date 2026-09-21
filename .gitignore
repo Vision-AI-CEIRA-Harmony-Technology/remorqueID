@@ -1,6 +1,10 @@
 # local
 images/
-images.zip
+*.zip
+testImages
+ocr_results
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

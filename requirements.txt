@@ -2,3 +2,5 @@ gradio>=4.0
 torch
 torchvision
 Pillow
+onnxruntime
+fast-plate-ocr
